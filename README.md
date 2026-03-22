@@ -1,10 +1,13 @@
-**Author** Santiago Manuel Pallares Bartolomé  
-*Data Science Capstone Project | 2026*
+Author: Santiago Manuel Pallares Bartolomé. 
 
-Project: SpaceX Falcon 9 Landing Prediction
+Data Science Capstone Project | 2026.
 
-​IBM Data Science Capstone. 
+Project: SpaceX Falcon 9 Landing Prediction.
+
+​IBM Data Science Capstone.
+
 ​Project Context:
+
 SpaceX has disrupted the aerospace industry by making rocket launches significantly cheaper. This cost reduction is driven by the successful recovery and reuse of the Falcon 9 first-stage booster. The goal of this project was to identify the specific factors that lead to a successful landing and to build a classification model that predicts these outcomes with high reliability.
 ​The Analytical Roadmap
 ​Data Acquisition | Integrated data from the SpaceX API and parsed mission details from Wikipedia via web scraping.
